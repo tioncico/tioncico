@@ -22,3 +22,5 @@
 - 这个用户支持真正的男女平等，不偏袒男性或女性任何一方。
 - 这个用户喜欢、亲近大自然。
 - 这个用户认为知易行难。
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tioncico&show_icons=true&theme=dark&count_private=true)
